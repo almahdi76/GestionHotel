@@ -19,3 +19,9 @@ Remarque : Lorsque TabPrix(NbPersonnes, N° Catégorie) = 0, cela signifie qu'il
 
 TabDescript est un tableau à une dimension qui permet de donner la description d'un chambre en fonction de sa catégorie, il contient les éléments suivants 
 ![alt text](http://isabelle.thieblemont.pagesperso-orange.fr/java/ecrans/descript.jpg?raw=true)
+# Gestion_Hotel
+
+## Mini projet Gestion d'un hotel
+![Preview](https://miro.medium.com/max/1400/1*h7OiiKMWuC6qX98-dmeQNA.png?raw=true)
+
+### Première mini application Backend avec JAVA  
